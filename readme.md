@@ -18,7 +18,7 @@ import matplotlib as plt
 from sklearn.preprocessing import PolynomialFeatures as PF
 ```
 
-## Read File
+# Read File
 
 ```python
 dataset = pd.read_csv('file.csv')
